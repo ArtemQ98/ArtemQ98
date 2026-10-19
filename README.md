@@ -7,7 +7,7 @@
 
 💻 A junior Go developer passionate about building reliable APIs and useful applications.
 
-🐹 Go enthusiast | 🗄️ Database explorer | ⚛️ React learner | ☕ Coffee lover
+🐹 Go enthusiast | 🗄️ Database explorer | ⚛️ React learner
 
 💡 Passionate about turning ideas into working software and continuously improving my skills.
 
