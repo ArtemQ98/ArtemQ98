@@ -11,21 +11,25 @@ Currently focused on **Go backend development**, with additional experience in J
 ### Tech Stack
 
 **Backend**
+
 - Go
 - REST APIs
 - SQL
 
 **Frontend**
+
 - React
 - TypeScript
 - JavaScript
 
 **Also worked with**
+
 - Java
 - C++
 - Flutter
 
 **Tools**
+
 - Git & GitHub
 - Docker
 - PostgreSQL
@@ -61,4 +65,4 @@ A full-stack car rental platform built to connect customers with vehicle owners.
 ### Contact
 
 - **GitHub:** [@ArtemQ98](https://github.com/ArtemQ98)
-- **Telegram:** [@ArtTeam71](https://t.me/artteam71)# ArtemQ98
+- **Telegram:** [@ArtTeam71](https://t.me/artteam71)
